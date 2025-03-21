@@ -55,7 +55,7 @@ word-spacing: 2px;
   padding: 10px 0px;
   background-color: white;
 }
-body {
+.wholebody {
   background-image: url("../assets/majorbackground.png");
   background-size: cover;
   background-position: center center;
